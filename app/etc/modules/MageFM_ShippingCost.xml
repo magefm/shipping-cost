@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <MageFM_ShippingCost>
+            <codePool>community</codePool>
+            <active>true</active>
+        </MageFM_ShippingCost>
+    </modules>
+</config>
